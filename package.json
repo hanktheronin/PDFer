@@ -1,0 +1,15 @@
+{
+  "name": "PDFer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimal PWA PDF reader with bookmarks and auto-save",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "pdfjs-dist": "^4.1.392"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
